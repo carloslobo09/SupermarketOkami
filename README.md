@@ -2,7 +2,7 @@
 
 **Mi primer aplicación creada con JavaScript!** Este eCommerce fue creado imaginando un supermercado oriental, o por lo menos le quise dar esa tematica por mas que los productos que se vean no ajusticien este fin. Es la primera vez que use Javascript en su mayoria para el desarrollo de una app web, la fecha en la que cree esta app es en 2021-02, cuando estuve realizando el curso impartido por los chicos de **CoderHouse**
 
-![](Sup Okami.gif)
+![](Sup-Okami.gif)
 
 ## Instalación
 
